@@ -5,7 +5,7 @@ A simple AI chatbot quiz application that uses Google Sheets as a backend databa
 
 ## UI Preview
 <p align="center">
-  <img src="image.png" alt="App Preview" width="400"/>
+  <img src="image.png" alt="App Preview" width="800"/>
 </p>
 
 ## Features

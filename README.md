@@ -2,6 +2,12 @@
 
 A simple AI chatbot quiz application that uses Google Sheets as a backend database via Google Sheets API. Built to fulfill a university assignment (UTS).
 
+
+## UI Preview
+<p align="center">
+  <img src="image.png" alt="App Preview" width="400"/>
+</p>
+
 ## Features
 
 - Add new quiz materi (topics) and questions through chatbot interface

@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Local environment files (sensitive)
+credentials.json
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional coverage directories
+coverage/
+.nyc_output/
+
+# IDE/editor folders
+.vscode/
+.idea/
